@@ -107,11 +107,11 @@ Se podrán realizar dos prácticas de manera voluntaria:
 > - **Práctica 1**: vídeo descriptivo de la arquitectura de una aplicación en capas. El vídeo debe ser narrado por el alumno.
 > - **Práctica 2**: <a href="Práctica guiada.pdf">desarrollo de práctica guiada </a>
 
-$Ev1=\frac{Práctica1+Práctica2}{2}$
+$$ Ev1=\frac{Práctica1+Práctica2}{2} $$
 
 > - **Examen**: prueba práctica similar a la práctica realizada en clase, pero sin guión de apoyo.
 
-$Nota=0.2 * Ev1 + 0.8 * Examen$
+$$ Nota=0.2 * Ev1 + 0.8 * Examen $$
 
 ---
 
