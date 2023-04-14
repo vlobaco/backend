@@ -10,40 +10,35 @@
 
 MÓDULO 10 - Desarrollo de Aplicaciones Web
 
-- Desarrollo de páginas web estáticas (HTML y CSS) 2 ECTS
+- Desarrollo de páginas web estáticas (HTML y CSS) 1,5 ECTS
 - ECMAScript 2 ECTS
 - Implementación Capa Frontend para Mobile 1'5 ECTS
 - Implementación Capa Frontend Web 3 ECTS
 - Serialización en texto plano 1 ECTS
-- **Implementación capa Backend y Servicios Web 2 ECTS**
+- **Implementación capa Backend y Servicios Web 1,5 ECTS**
 
 ---
 
 ### COMPETENCIAS GENERALES
 
-> - C.G.1: Haber adquirido conocimientos avanzados y demostrado, en un contexto altamente especializado, una comprensión detallada y fundamentada de los
-aspectos teóricos y prácticos y de la metodología de trabajo en el campo de los sistemas de información.
-> - C.G.2: Ser capaces de asumir la responsabilidad de su propio desarrollo profesional y de su especialización en uno o más campos de estudio.
+> - Adquirir conocimientos avanzados y demostrar, en un contexto altamente especializado, una comprensión detallada y fundamentada de los aspectos teóricos y prácticos y de la metodología de trabajo en el campo de los sistemas de información. (C.G.1)
+> - Asumir la responsabilidad de su propio desarrollo profesional y de su especialización en uno o más campos de estudio. (C.G.2)
 
 ---
 
 ### COMPETENCIAS ESPECIFICAS
 
-> - C.E.3 Concebir, planificar, dirigir, implementar y mantener proyectos de desarrollo software.
+> - Concebir, planificar, dirigir, implementar y mantener proyectos de desarrollo software. (C.E.3)
+> - Asumir y perseguir el valor de soluciones altamente reutilizables, flexibles, abiertas, interoperables, escalables y las ventajas del trabajo formando parte de comunidades. (C.E.5)
 
 ---
 
 ### UNIDADES DE COMPETENCIA
 
-> - U.C.1.1 Comprender el papel del backend y de una API REST dentro de la estructura de una aplicación cliente/servidor
-> - U.C.1.2 Desarrollar una API REST HATEOAS utilizando SPRING Boot
-> - U.C.1.3 Personalizar métodos y clases de Spring Boot para adaptarlos a las necesidades del proyecto
-> - U.C.1.4 Acoplar una librería externa a una API REST propia
-> - U.C.1.5 Securizar la API REST a través de SPRING Security
-> - U.C.1.6 Persistir información a través de SPRING Data Rest
-
-Por tanto, se debe ser capaz de desarrollar la capa de negocio, donde residen los programas que se ejecutan, se reciben las peticiones del usuario y se envían las respuestas tras el proceso.
-
+> - Diseñar y aplicar de forma correcta la interacción ordenador-persona, para diferentes sistemas de software y dispositivos (U.C.5.3)
+> - Aplicar librerías básicas y APIs de acceso a datos. Aprovechar APIs para crear sistemas altamente flexibles utilizando distintas librerías (U.C.5.4)
+> - Capacidad de aprendizaje autónomo de nuevas herramientas, frameworks, APIs y lenguajes de programación (U.C.5.5)
+> - Describir los conceptos de programación orientada a objetos y aplicarlos para realizar proyectos de programación (U.C.3.12)
 
 ---
 
